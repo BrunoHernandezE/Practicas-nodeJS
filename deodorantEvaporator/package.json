@@ -1,0 +1,16 @@
+{
+  "name": "deodorantevaporator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./app/deodorantEvaporator.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
